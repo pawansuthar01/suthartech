@@ -1,0 +1,3 @@
+<div class="admin-grid-2"><div class="admin-field"><label for="client_name">Client name</label><input id="client_name" name="client_name" maxlength="160" required value="{{ old('client_name', $item->client_name) }}"></div><div class="admin-field"><label for="client_role">Role</label><input id="client_role" name="client_role" maxlength="160" value="{{ old('client_role', $item->client_role) }}"></div></div>
+<div class="admin-field"><label for="company">Company</label><input id="company" name="company" maxlength="160" value="{{ old('company', $item->company) }}"></div>
+<div class="admin-field"><label for="quote">Feedback</label><textarea id="quote" name="quote" maxlength="2000" rows="6" required>{{ old('quote', $item->quote) }}</textarea></div>

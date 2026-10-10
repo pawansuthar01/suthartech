@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title">
+  <title id="title">Application security and protected data illustration</title>
+  <rect width="1200" height="675" rx="32" fill="#f8fafc"/>
+  <path d="M600 105l210 77v151c0 116-83 197-210 246-127-49-210-130-210-246V182z" fill="#fff" stroke="#0f172a" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M600 154l159 58v119c0 87-60 152-159 193-99-41-159-106-159-193V212z" fill="#bfdbfe"/>
+  <rect x="521" y="291" width="158" height="117" rx="20" fill="#fff" stroke="#0f172a" stroke-width="5"/>
+  <path d="M553 291v-29c0-63 94-63 94 0v29" fill="none" stroke="#0f172a" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="600" cy="341" r="12" fill="#0f172a"/><path d="M600 352v23" stroke="#0f172a" stroke-width="9" stroke-linecap="round"/>
+  <circle cx="875" cy="244" r="29" fill="#f4c7d7"/><circle cx="912" cy="416" r="19" fill="#bfdbfe"/><path d="M844 245h-48m102 0h50m-73 29v114m-47 28h-55" stroke="#64748b" stroke-width="5" stroke-dasharray="7 11" stroke-linecap="round"/>
+  <rect x="150" y="261" width="176" height="62" rx="16" fill="#fff" stroke="#cbd5e1" stroke-width="3"/><path d="M187 292h104" stroke="#64748b" stroke-width="9" stroke-linecap="round"/>
+</svg>

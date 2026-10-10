@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title">
+  <title id="title">Software engineering and code illustration</title>
+  <rect width="1200" height="675" rx="32" fill="#f8fafc"/>
+  <rect x="172" y="105" width="856" height="465" rx="24" fill="#fff" stroke="#cbd5e1" stroke-width="3"/>
+  <path d="M172 171h856" stroke="#e2e8f0" stroke-width="3"/>
+  <circle cx="215" cy="138" r="9" fill="#f4c7d7"/><circle cx="246" cy="138" r="9" fill="#bfdbfe"/><circle cx="277" cy="138" r="9" fill="#cbd5e1"/>
+  <rect x="218" y="215" width="205" height="310" rx="15" fill="#f8fafc"/>
+  <path d="M255 258h116m-116 44h142m-142 44h92m-92 44h130m-130 44h102m-102 44h145" stroke="#cbd5e1" stroke-width="10" stroke-linecap="round"/>
+  <path d="M255 258h55m-55 88h38m-38 88h55" stroke="#64748b" stroke-width="10" stroke-linecap="round"/>
+  <rect x="463" y="215" width="514" height="196" rx="17" fill="#0f172a"/>
+  <path d="M506 264l30 25-30 25m70 0h75m-145 52h114" fill="none" stroke="#bfdbfe" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M734 264h180m-180 50h127m-127 52h159" stroke="#f4c7d7" stroke-width="9" stroke-linecap="round"/>
+  <rect x="463" y="444" width="514" height="81" rx="16" fill="#f8fafc" stroke="#e2e8f0" stroke-width="2"/>
+  <circle cx="510" cy="484" r="14" fill="#bfdbfe"/><path d="M552 484h173" stroke="#64748b" stroke-width="9" stroke-linecap="round"/><path d="M764 484h165" stroke="#cbd5e1" stroke-width="9" stroke-linecap="round"/>
+</svg>

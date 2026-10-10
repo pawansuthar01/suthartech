@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title">
+  <title id="title">Cloud infrastructure operations illustration</title>
+  <rect width="1200" height="675" rx="32" fill="#f8fafc"/>
+  <path d="M405 265c14-90 96-151 187-137 54 8 98 45 116 95 70-16 138 36 138 109 0 66-54 120-120 120H438c-58 0-105-47-105-105 0-46 30-86 72-99z" fill="#fff" stroke="#cbd5e1" stroke-width="4"/>
+  <rect x="245" y="428" width="710" height="82" rx="18" fill="#fff" stroke="#cbd5e1" stroke-width="3"/>
+  <rect x="285" y="454" width="44" height="30" rx="7" fill="#bfdbfe"/><path d="M360 469h181" stroke="#64748b" stroke-width="10" stroke-linecap="round"/><circle cx="850" cy="469" r="12" fill="#f4c7d7"/>
+  <rect x="330" y="526" width="540" height="70" rx="16" fill="#fff" stroke="#cbd5e1" stroke-width="3"/>
+  <rect x="370" y="548" width="42" height="26" rx="6" fill="#f4c7d7"/><path d="M448 561h142" stroke="#64748b" stroke-width="9" stroke-linecap="round"/><path d="M690 561h134" stroke="#cbd5e1" stroke-width="9" stroke-linecap="round"/>
+  <path d="M600 322v81m-85-51 55 42m115-42-55 42" stroke="#64748b" stroke-width="5" stroke-dasharray="8 12" stroke-linecap="round"/>
+  <circle cx="600" cy="303" r="30" fill="#bfdbfe"/><circle cx="515" cy="352" r="24" fill="#f4c7d7"/><circle cx="685" cy="352" r="24" fill="#f4c7d7"/>
+</svg>

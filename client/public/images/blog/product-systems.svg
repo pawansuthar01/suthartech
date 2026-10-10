@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title">
+  <title id="title">Product planning dashboard illustration</title>
+  <rect width="1200" height="675" rx="32" fill="#f8fafc"/>
+  <rect x="150" y="92" width="900" height="492" rx="24" fill="#fff" stroke="#cbd5e1" stroke-width="3"/>
+  <path d="M150 156h900" stroke="#e2e8f0" stroke-width="3"/>
+  <circle cx="190" cy="124" r="9" fill="#f4c7d7"/><circle cx="221" cy="124" r="9" fill="#bfdbfe"/><circle cx="252" cy="124" r="9" fill="#cbd5e1"/>
+  <rect x="205" y="205" width="214" height="318" rx="16" fill="#f8fafc" stroke="#e2e8f0" stroke-width="2"/>
+  <rect x="238" y="241" width="112" height="12" rx="6" fill="#64748b"/><rect x="238" y="275" width="145" height="8" rx="4" fill="#cbd5e1"/>
+  <rect x="238" y="321" width="147" height="53" rx="11" fill="#f4c7d7"/><rect x="238" y="394" width="147" height="53" rx="11" fill="#bfdbfe"/><rect x="238" y="467" width="110" height="10" rx="5" fill="#cbd5e1"/>
+  <rect x="455" y="205" width="546" height="142" rx="16" fill="#f8fafc" stroke="#e2e8f0" stroke-width="2"/>
+  <path d="M497 307l104-51 81 24 96-47 79 17 101-31" fill="none" stroke="#0f172a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="601" cy="256" r="9" fill="#f4c7d7"/><circle cx="778" cy="233" r="9" fill="#bfdbfe"/><circle cx="958" cy="219" r="9" fill="#f4c7d7"/>
+  <rect x="455" y="374" width="257" height="149" rx="16" fill="#fff" stroke="#e2e8f0" stroke-width="2"/><rect x="745" y="374" width="256" height="149" rx="16" fill="#fff" stroke="#e2e8f0" stroke-width="2"/>
+  <rect x="487" y="407" width="116" height="10" rx="5" fill="#64748b"/><rect x="487" y="439" width="177" height="8" rx="4" fill="#cbd5e1"/><rect x="487" y="466" width="145" height="8" rx="4" fill="#e2e8f0"/>
+  <circle cx="874" cy="449" r="39" fill="#bfdbfe"/><path d="M858 449h32m-16-16v32" stroke="#0f172a" stroke-width="6" stroke-linecap="round"/>
+</svg>

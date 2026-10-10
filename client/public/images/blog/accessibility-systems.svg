@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title">
+  <title id="title">Accessible user interface and inclusive design illustration</title>
+  <rect width="1200" height="675" rx="32" fill="#f8fafc"/>
+  <rect x="178" y="100" width="844" height="475" rx="26" fill="#fff" stroke="#cbd5e1" stroke-width="3"/>
+  <rect x="218" y="144" width="322" height="387" rx="20" fill="#f8fafc"/>
+  <circle cx="379" cy="243" r="57" fill="#f4c7d7"/><circle cx="379" cy="225" r="17" fill="#0f172a"/><path d="M347 281c8-27 56-27 64 0m-84 43h126m-104 43h82m-82 43h111" fill="none" stroke="#0f172a" stroke-width="9" stroke-linecap="round"/>
+  <rect x="582" y="144" width="397" height="112" rx="18" fill="#fff" stroke="#e2e8f0" stroke-width="2"/><rect x="620" y="176" width="156" height="12" rx="6" fill="#64748b"/><rect x="620" y="207" width="314" height="8" rx="4" fill="#cbd5e1"/>
+  <rect x="582" y="278" width="397" height="112" rx="18" fill="#fff" stroke="#e2e8f0" stroke-width="2"/><circle cx="634" cy="334" r="20" fill="#bfdbfe"/><path d="M626 334l6 7 12-15" fill="none" stroke="#0f172a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><rect x="676" y="316" width="230" height="10" rx="5" fill="#64748b"/><rect x="676" y="342" width="180" height="8" rx="4" fill="#cbd5e1"/>
+  <rect x="582" y="412" width="397" height="90" rx="17" fill="#0f172a"/><rect x="620" y="442" width="199" height="12" rx="6" fill="#fff"/><circle cx="921" cy="457" r="17" fill="#bfdbfe"/>
+</svg>
